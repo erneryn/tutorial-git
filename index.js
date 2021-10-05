@@ -1,4 +1,6 @@
 var nama = 'ERYN'
 var nickname = 'BACUN'
 
-komputer kita ->> git komputer (local) ->> git website (remote);
+var no_hp = '08736726'
+
+komputer kita ->> git komputer (local) ->> commit --->git website (remote);
